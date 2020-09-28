@@ -1,3 +1,4 @@
+[![Build Status](https://havibe.visualstudio.com/Spacegame-web2/_apis/build/status/hpvibe.mslearn-tailspin-spacegame-web?branchName=master)](https://havibe.visualstudio.com/Spacegame-web2/_build/latest?definitionId=16&branchName=master)
 
 # Contributing
 
